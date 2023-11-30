@@ -1,1 +1,1 @@
-# Initial-Index
+# initial-index
